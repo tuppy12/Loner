@@ -1,0 +1,2 @@
+import Bos
+Bos.menu()
