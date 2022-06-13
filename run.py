@@ -1,2 +1,2 @@
-import Bos
+import Boss
 Bos.haha()
