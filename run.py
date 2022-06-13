@@ -1,2 +1,2 @@
 import Bos
-Bos.menu()
+Bos.haha()
