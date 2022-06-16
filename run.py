@@ -1,2 +1,2 @@
 import Boss
-Bos.haha()
+Boss.main()
