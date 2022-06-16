@@ -1,2 +1,2 @@
-import Boss
-Boss.main()
+import Bos
+Bos.main()
